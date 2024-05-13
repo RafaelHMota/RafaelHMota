@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="<img align= center" alt="Header" src="https://github.com/RafaelHMota/RafaelHMota/blob/main/img/header.png"/>
+<img align="center" alt="Header" src="https://github.com/RafaelHMota/RafaelHMota/blob/main/img/header.png"/>
 </div>
 
 -----
