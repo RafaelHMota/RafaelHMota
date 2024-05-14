@@ -28,7 +28,7 @@
 </td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/RafaelHMota/RafaelHMota/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
-<td><a href="https://https://discord.com/channels/@me/1240070522960613398" target="_blank"><img src="https://https://github.com/RafaelHMota/RafaelHMota/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://https://discord.com/channels/@me/1240070522960613398" target="_blank"><img src="https://https://github.com/RafaelHMota/RafaelHMota/blob/main/img/discord2.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://github.com/RafaelHMota/RafaelHMota/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
 </td>
